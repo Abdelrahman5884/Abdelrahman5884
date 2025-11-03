@@ -40,6 +40,7 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
 </div>
+---
 ##  Languages & Tools
 
 <div align="center">
