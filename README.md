@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel (PHP)**.  
 I build robust RESTful APIs, design optimized MySQL databases, and focus on performance & scalability.  
@@ -37,7 +37,7 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
@@ -52,7 +52,7 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -60,14 +60,14 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
 <tr>
 <td align="center" width="45%">
   
-### 🛒 E-Commerce Platform  
+###  E-Commerce Platform  
 Full Laravel app with authentication, roles, product & order management.  
 <a href="https://github.com/Abdelrahman5884/ecommerce">🔗 View on GitHub</a>
 
 </td>
 <td align="center" width="45%">
   
-### 🤖 AI Chatbot  
+###  AI Chatbot  
 Smart Laravel chatbot powered by NLP APIs.  
 <a href="https://github.com/Abdelrahman5884/Chatbot">🔗 View on GitHub</a>
 
@@ -77,14 +77,14 @@ Smart Laravel chatbot powered by NLP APIs.
 <tr>
 <td align="center" width="45%">
   
-### 🎓 Bright (E-Learning Platform)  
+###  Bright (E-Learning Platform)  
 Manages courses, progress tracking, and chat integration.  
 <a href="https://github.com/Abdelrahman5884/bright">🔗 View on GitHub</a>
 
 </td>
 <td align="center" width="45%">
   
-### 📚 Library Management System  
+###  Library Management System  
 API for managing users, roles & book borrowing system.  
 <a href="https://github.com/Abdelrahman5884/libraryMS">🔗 View on GitHub</a>
 
@@ -96,30 +96,18 @@ API for managing users, roles & book borrowing system.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
 </div>
-
 ---
-
-## 🐍 GitHub Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abdelrahman5884/Abdelrahman5884/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="600"/>
-</div>
-
----
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
 <!-- Stats & Languages -->
 <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman5884&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman5884&layout=compact&theme=dracula&langs_count=8" height="160"/>
-
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman5884&theme=dracula" width="800"/>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman5884&theme=react-dark&hide_border=true&bg_color=0d1117&color=5DADE2&line=3498DB&point=FFFFFF" width="800"/>
@@ -129,5 +117,5 @@ API for managing users, roles & book borrowing system.
 ---
 
 <p align="center">
-💙 <em>I don’t just write code — I build systems that solve problems.</em>
+ <em>I don’t just write code — I build systems that solve problems.</em>
 </p>
