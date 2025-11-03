@@ -36,7 +36,10 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
 📄 [View My CV (PDF)](./fc87f5e5-93ce-49c2-8d7e-0049e6600abc.pdf)
 
 ---
-
+##  GitHub Streak
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
+</div>
 ##  Languages & Tools
 
 <div align="center">
@@ -96,12 +99,9 @@ API for managing users, roles & book borrowing system.
 
 ---
 
-##  GitHub Streak
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
-</div>
+
 ---
-##  GitHub Stats
+GitHub Stats
 
 <div align="center">
 
