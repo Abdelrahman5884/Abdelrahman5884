@@ -40,7 +40,7 @@ Currently exploring **Redis**, **AWS**, and advanced backend optimizations.
 
 ---
 
-## ⚙️ Technologies & Tools
+##  Technologies & Tools
 
 <div align="center">
 
@@ -56,22 +56,22 @@ Currently exploring **Redis**, **AWS**, and advanced backend optimizations.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 💼 Project | 🧠 Description | 🔗 Repo |
+|  Project |  Description | 🔗 Repo |
 |-------------|----------------|---------|
-| 🛒 **E-Commerce Platform** | Full Laravel app with auth, product & order management | [View Repo](https://github.com/Abdelrahman5884/ecommerce) |
-| 🤖 **AI Chatbot** | Laravel chatbot integrated with NLP APIs for smart replies | [View Repo](https://github.com/Abdelrahman5884/Chatbot) |
-| 🎓 **Bright (E-learning)** | Platform for online courses with progress tracking | [View Repo](https://github.com/Abdelrahman5884/bright) |
-| 📚 **Library Management System** | RESTful APIs for book & user management | [View Repo](https://github.com/Abdelrahman5884/libraryMS) |
+|  **E-Commerce Platform** | Full Laravel app with auth, product & order management | [View Repo](https://github.com/Abdelrahman5884/ecommerce) |
+|  **AI Chatbot** | Laravel chatbot integrated with NLP APIs for smart replies | [View Repo](https://github.com/Abdelrahman5884/Chatbot) |
+|  **Bright (E-learning)** | Platform for online courses with progress tracking | [View Repo](https://github.com/Abdelrahman5884/bright) |
+|  **Library Management System** | RESTful APIs for book & user management | [View Repo](https://github.com/Abdelrahman5884/libraryMS) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -80,20 +80,7 @@ Currently exploring **Redis**, **AWS**, and advanced backend optimizations.
 
 </div>
 
----
-
-## 🐍 GitHub Snake Game
-
-<div align="center">
-
-> 🕹 Appears automatically once the GitHub Action runs successfully.
-
-<img src="https://raw.githubusercontent.com/Abdelrahman5884/Abdelrahman5884/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="600"/>
-
-</div>
-
----
 
 <p align="center">
-💙 <em>I don’t just write code — I build systems that solve problems.</em>
+ <em>I don’t just write code — I build systems that solve problems.</em>
 </p>
