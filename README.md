@@ -49,7 +49,7 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
 </div>
 
----
+
 
 ##  Featured Projects
 
@@ -93,10 +93,9 @@ API for managing users, roles & book borrowing system.
 
 </div>
 
----
 
 
----
+
 GitHub Stats
 
 <div align="center">
