@@ -35,12 +35,7 @@ Currently exploring **Redis**, **AWS**, and **Docker**.
 📧 [abdelrahmanhasan020@gmail.com](mailto:abdelrahmanhasan020@gmail.com)  
 📄 [View My CV (PDF)](./fc87f5e5-93ce-49c2-8d7e-0049e6600abc.pdf)
 
----
-##  GitHub Streak
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
-</div>
----
+
 ##  Languages & Tools
 
 <div align="center">
@@ -114,7 +109,11 @@ GitHub Stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman5884&theme=react-dark&hide_border=true&bg_color=0d1117&color=5DADE2&line=3498DB&point=FFFFFF" width="800"/>
 
 </div>
-
+---
+##  GitHub Streak
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
+</div>
 ---
 
 <p align="center">
