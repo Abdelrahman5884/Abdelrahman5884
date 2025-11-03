@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelrahman5884/Abdelrahman5884/main/ekko.gif" alt="Ekko from Arcane" width="500"/>
+  <!-- Replace below link with your GIF link after converting from OneDrive -->
+  <img src="https://1drv.ms/v/c/0976e04fd3deeb6f/EUYmxt_2gpBLtwcpse1TnhcBvQYGMJEMgcezDWXjEfol5w?e=BAUhPP" alt="Abdelrahman Hassan GIF" width="500"/>
 </p>
 
 <div align="center">
@@ -19,10 +20,11 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-✨ I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel**.  
-💡 Passionate about designing secure, scalable APIs and efficient databases with MySQL & Redis.  
-🚀 Always learning and improving in software engineering and backend architecture.  
-🎯 I focus on writing clean, maintainable code and delivering practical solutions that make an impact.  
+💻 I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel (PHP)**.  
+🚀 I create reliable and scalable RESTful APIs and design efficient MySQL databases.  
+💡 I’m passionate about building impactful solutions that solve real-world problems.  
+🔥 Always learning, improving, and exploring new technologies to stay ahead.  
+🎯 Focused on writing clean, maintainable, and secure code.  
 
 📍 **Location:** Egypt – Mansoura  
 📧 **Email:** [abdelrahmanhasan020@gmail.com](mailto:abdelrahmanhasan020@gmail.com)  
@@ -49,6 +51,21 @@
 
 ---
 
+## 🧩 Featured Projects
+
+<div align="center">
+
+| 💼 Project | 🧠 Description | 🔗 Link |
+|-------------|----------------|---------|
+| 🛒 **E-Commerce Platform** | Full Laravel app with role-based authentication, product & order management | [🔗 View Repo](https://github.com/Abdelrahman5884/ecommerce) |
+| 🤖 **AI Chatbot** | Laravel chatbot using NLP APIs for automated, smart responses | [🔗 View Repo](https://github.com/Abdelrahman5884/Chatbot) |
+| 🎓 **Bright (E-learning Platform)** | Course management, progress tracking, and chatbot integration | [🔗 View Repo](https://github.com/Abdelrahman5884/bright) |
+| 📚 **Library Management System** | RESTful APIs for managing books, users & borrowing operations | [🔗 View Repo](https://github.com/Abdelrahman5884/libraryMS) |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -70,28 +87,26 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Play with My Contributions
 
-- 🛒 [E-Commerce Platform](https://github.com/Abdelrahman5884/ecommerce) — Role-based authentication, product & order management  
-- 🤖 [AI Chatbot](https://github.com/Abdelrahman5884/Chatbot) — Context-aware bot using Laravel & NLP APIs  
-- 🎓 [Bright](https://github.com/Abdelrahman5884/bright) — E-learning platform with smart chatbot & real-time interactions  
-- 📚 [Library Management System](https://github.com/Abdelrahman5884/libraryMS) — Secure APIs for managing books & users  
+> 🕹 *Feeling bored? Watch your commits come alive!*
+
+<div align="center">
+  <img src="https://github.com/Abdelrahman5884/Abdelrahman5884/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
+</div>
 
 ---
 
-> “I don’t just write code — I build systems that solve problems.” 💙
+## 📬 Connect With Me
 
-<!--
-**Abdelrahman5884/Abdelrahman5884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/)  
+[![GitHub](https://img.shields.io/badge/GitHub-2980B9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman5884)  
+[![Email](https://img.shields.io/badge/Email-5DADE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanhasan020@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+> 💙 *"I don’t just write code — I build systems that solve problems."*
