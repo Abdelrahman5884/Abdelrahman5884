@@ -3,9 +3,23 @@
 </p>
 
 <p align="center">
-  <!-- استخدم الجيف اللي رفعته على GitHub -->
+  <!-- استخدم هنا اسم ملف الـ GIF اللي رفعته -->
   <img src="https://github.com/Abdelrahman5884/Abdelrahman5884/raw/main/ekko.gif" alt="Abdelrahman Hassan GIF" width="500"/>
 </p>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/)  
+[![GitHub](https://img.shields.io/badge/GitHub-2980B9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman5884)  
+[![Email](https://img.shields.io/badge/Email-5DADE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanhasan020@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -18,20 +32,16 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 💻 I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel (PHP)**.  
-🚀 I build scalable RESTful APIs and design optimized databases using **MySQL** and **Redis**.  
-💡 Passionate about developing meaningful digital solutions that make a difference.  
-🔥 Continuously learning, improving, and exploring modern backend technologies.  
-🎯 My focus is on writing **clean**, **secure**, and **maintainable** code.
+⚙️ I design and build **RESTful APIs** and architect scalable, efficient **MySQL** databases.  
+🚀 Passionate about **problem-solving**, performance optimization, and clean architecture.  
+💡 Always exploring new backend technologies like **Redis**, **AWS**, and **API Security**.  
+📈 I love transforming ideas into reliable digital systems that make a real-world impact.  
 
 📍 **Location:** Egypt – Mansoura  
 📧 **Email:** [abdelrahmanhasan020@gmail.com](mailto:abdelrahmanhasan020@gmail.com)  
 📄 **[View My CV (PDF)](./fc87f5e5-93ce-49c2-8d7e-0049e6600abc.pdf)**  
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/)**  
-
-<br clear="both"/>
 
 ---
 
@@ -92,22 +102,10 @@
 
 ## 🐍 GitHub Snake Game
 
-> 🎮 *Watch your commits come alive!*
+> 🎮 *Watch your commits come alive below!*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdelrahman5884/Abdelrahman5884/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/)  
-[![GitHub](https://img.shields.io/badge/GitHub-2980B9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman5884)  
-[![Email](https://img.shields.io/badge/Email-5DADE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanhasan020@gmail.com)
-
 </div>
 
 ---
