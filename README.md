@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <!-- صورة ثابتة بدل الـ GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="500"/>
+  <!-- صورة Ekko من Arcane -->
+  <img src="https://github.com/Abdelrahman5884/Abdelrahman5884/raw/main/ekko.gif" alt="Ekko Arcane GIF" width="500"/>
 </p>
 
 ---
@@ -30,9 +30,9 @@
 ## About Me
 
 I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel (PHP)**.  
-I focus on building clean, scalable RESTful APIs and well-designed MySQL databases.  
-I’m passionate about backend architecture, optimization, and problem-solving.  
-Currently exploring **Redis**, **AWS**, and modern web infrastructure.  
+I build secure, scalable RESTful APIs and design efficient MySQL databases.  
+Passionate about backend architecture, optimization, and clean, maintainable code.  
+Currently exploring **Redis**, **AWS**, and advanced server performance tuning.  
 
 📍 Egypt – Mansoura  
 📧 [abdelrahmanhasan020@gmail.com](mailto:abdelrahmanhasan020@gmail.com)  
@@ -40,37 +40,39 @@ Currently exploring **Redis**, **AWS**, and modern web infrastructure.
 
 ---
 
-## Technologies & Tools
+## ⚙️ Technologies & Tools
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-3498DB?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-2980B9?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-2471A3?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-1F618D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-154360?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-1B4F72?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-2E86C1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-5DADE2?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 </div>
 
 ---
 
-## Featured Projects
+## 🧩 Featured Projects
 
 <div align="center">
 
-| 💼 Project | 🔍 Description | 🔗 Repo |
+| 💼 Project | 🧠 Description | 🔗 Link |
 |-------------|----------------|---------|
-| 🛒 **E-Commerce Platform** | Full Laravel app with auth, product & order management | [View Repo](https://github.com/Abdelrahman5884/ecommerce) |
-| 🤖 **AI Chatbot** | Smart Laravel chatbot integrated with NLP APIs | [View Repo](https://github.com/Abdelrahman5884/Chatbot) |
-| 🎓 **Bright (E-learning)** | Course management + progress tracking + chatbot | [View Repo](https://github.com/Abdelrahman5884/bright) |
-| 📚 **Library Management System** | RESTful APIs for users & books with role auth | [View Repo](https://github.com/Abdelrahman5884/libraryMS) |
+| 🛒 **E-Commerce Platform** | Full Laravel app with role-based authentication, product & order management | [View Repo](https://github.com/Abdelrahman5884/ecommerce) |
+| 🤖 **AI Chatbot** | Laravel chatbot powered by NLP APIs for context-aware responses | [View Repo](https://github.com/Abdelrahman5884/Chatbot) |
+| 🎓 **Bright (E-learning Platform)** | Course management, progress tracking & integrated chatbot | [View Repo](https://github.com/Abdelrahman5884/bright) |
+| 📚 **Library Management System** | RESTful APIs for managing users, books & borrowing operations | [View Repo](https://github.com/Abdelrahman5884/libraryMS) |
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman5884&show_icons=true&title_color=2980B9&icon_color=3498DB&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -78,11 +80,11 @@ Currently exploring **Redis**, **AWS**, and modern web infrastructure.
 
 ---
 
-## GitHub Snake Game 🎮
+## 🐍 GitHub Snake Game
 
 <div align="center">
 
-> The animated snake appears once GitHub Actions generate the SVG (takes a few minutes after first run).
+> 🕹 The animation appears automatically after the GitHub Action runs.
 
 <img src="https://raw.githubusercontent.com/Abdelrahman5884/Abdelrahman5884/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="600"/>
 
@@ -93,4 +95,3 @@ Currently exploring **Redis**, **AWS**, and modern web infrastructure.
 <p align="center">
 💙 <em>I don’t just write code — I build systems that solve problems.</em>
 </p>
-
