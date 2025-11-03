@@ -1,38 +1,39 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdelrahman+Hassan!+👋;Back-End+Developer+💻;Laravel+%7C+API+%7C+MySQL+Expert+⚙️" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi, I'm Abdelrahman Hassan 👋</h1>
+
+<h3 align="center">Back-End Developer | Laravel | RESTful APIs</h3>
+
+---
 
 <p align="center">
-  <!-- GIF جميل ومتناسق -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="developer gif" />
 </p>
 
 ---
 
-##  Connect With Me
-
+## 🔗 Connect With Me
 <div align="center">
-
-<a href="https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Abdelrahman5884">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:abdelrahmanhasan020@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://github.com/Abdelrahman5884" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292F&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="mailto:abdelrahmanhasan020@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://wa.me/201017025076" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
+  </a>
 </div>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel (PHP)**.  
-I build scalable, secure RESTful APIs and well-structured MySQL databases.  
-I enjoy solving real-world problems with clean and efficient code.  
-Currently exploring **Redis**, **AWS**, and advanced backend optimizations.  
+I build robust RESTful APIs, design optimized MySQL databases, and focus on performance & scalability.  
+I’m passionate about clean architecture, automation, and delivering real-world backend solutions.  
+Currently exploring **Redis**, **AWS**, and **Docker**.
 
 📍 Based in Egypt – Mansoura  
 📧 [abdelrahmanhasan020@gmail.com](mailto:abdelrahmanhasan020@gmail.com)  
@@ -40,47 +41,89 @@ Currently exploring **Redis**, **AWS**, and advanced backend optimizations.
 
 ---
 
-##  Technologies & Tools
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/-Laravel-3498DB?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-2980B9?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-2471A3?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-1F618D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-154360?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-1B4F72?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-2E86C1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+<tr>
+<td align="center" width="45%">
+  
+### 🛒 E-Commerce Platform  
+Full Laravel app with authentication, roles, product & order management.  
+<a href="https://github.com/Abdelrahman5884/ecommerce">🔗 View on GitHub</a>
+
+</td>
+<td align="center" width="45%">
+  
+### 🤖 AI Chatbot  
+Smart Laravel chatbot powered by NLP APIs.  
+<a href="https://github.com/Abdelrahman5884/Chatbot">🔗 View on GitHub</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="45%">
+  
+### 🎓 Bright (E-Learning Platform)  
+Manages courses, progress tracking, and chat integration.  
+<a href="https://github.com/Abdelrahman5884/bright">🔗 View on GitHub</a>
+
+</td>
+<td align="center" width="45%">
+  
+### 📚 Library Management System  
+API for managing users, roles & book borrowing system.  
+<a href="https://github.com/Abdelrahman5884/libraryMS">🔗 View on GitHub</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-##  Featured Projects
-
+## 🔥 GitHub Streak
 <div align="center">
-
-|  Project |  Description | 🔗 Repo |
-|-------------|----------------|---------|
-|  **E-Commerce Platform** | Full Laravel app with auth, product & order management | [View Repo](https://github.com/Abdelrahman5884/ecommerce) |
-|  **AI Chatbot** | Laravel chatbot integrated with NLP APIs for smart replies | [View Repo](https://github.com/Abdelrahman5884/Chatbot) |
-|  **Bright (E-learning)** | Platform for online courses with progress tracking | [View Repo](https://github.com/Abdelrahman5884/bright) |
-|  **Library Management System** | RESTful APIs for book & user management | [View Repo](https://github.com/Abdelrahman5884/libraryMS) |
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
 </div>
 
 ---
 
-##  GitHub Stats
+## 🐍 GitHub Snake Game
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman5884&show_icons=true&title_color=2980B9&icon_color=3498DB&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman5884&layout=compact&title_color=2980B9&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" width="48%" />
-
+  <img src="https://raw.githubusercontent.com/Abdelrahman5884/Abdelrahman5884/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="600"/>
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman5884&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman5884&layout=compact&theme=dracula&langs_count=8" height="160"/>
+</div>
+
+---
 
 <p align="center">
- <em>I don’t just write code — I build systems that solve problems.</em>
+💙 <em>I don’t just write code — I build systems that solve problems.</em>
 </p>
