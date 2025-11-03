@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Abdelrahman Hassan 👋</h1>
-
-<h3 align="center">Back-End Developer | Laravel | RESTful APIs</h3>
-
----
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdelrahman+Hassan!+👋;Back-End+Developer+💻;Laravel+%7C+API+%7C+MySQL+Expert+⚙️" alt="Typing SVG" /> </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="developer gif" />
