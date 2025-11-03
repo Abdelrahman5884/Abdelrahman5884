@@ -110,12 +110,20 @@ API for managing users, roles & book borrowing system.
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman5884&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman5884&layout=compact&theme=dracula&langs_count=8" height="160"/>
+
+<!-- Stats & Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman5884&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman5884&layout=compact&theme=dracula&langs_count=8" height="160"/>
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman5884&theme=dracula" width="800"/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman5884&theme=react-dark&hide_border=true&bg_color=0d1117&color=5DADE2&line=3498DB&point=FFFFFF" width="800"/>
+
 </div>
 
 ---
