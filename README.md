@@ -9,7 +9,7 @@
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m **Abdelrahman Hassan**, a **Back-End Developer** specialized in **Laravel (PHP)**.  
 I build scalable, secure RESTful APIs and well-structured MySQL databases.  
