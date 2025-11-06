@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="developer gif" />
 </p>
 
-
-
 ##  Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-hassan-809b3b339/" target="_blank">
@@ -96,7 +94,7 @@ API for managing users, roles & book borrowing system.
 
 
 
-GitHub Stats
+
 
 <div align="center">
 
@@ -105,16 +103,13 @@ GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman5884&layout=compact&theme=dracula&langs_count=8" height="160"/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman5884&theme=react-dark&hide_border=true&bg_color=0d1117&color=5DADE2&line=3498DB&point=FFFFFF" width="800"/>
+
 
 </div>
 
- GitHub Streak
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelrahman5884&theme=blue-green&hide_border=false" alt="streak stats"/>
 </div>
 
 
-<p align="center">
- <em>I don’t just write code — I build systems that solve problems.</em>
-</p>
