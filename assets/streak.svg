@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 176" width="900" height="176">
+<defs><style>
+.t{font:700 13px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#ece0c8;letter-spacing:2.4px;text-transform:uppercase}
+.k{font:500 13.5px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#ece0c8}
+.v{font:700 14px 'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace;fill:#ece0c8}
+.n{font:500 11px 'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace;fill:#9a8f80}
+.rise{opacity:0;transform:translateY(14px);animation:rs .8s cubic-bezier(.2,.8,.2,1) forwards}
+.g{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:gr 1.2s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes rs{to{opacity:1;transform:translateY(0)}}
+@keyframes gr{to{transform:scaleX(1)}}
+@keyframes sw{from{transform:translateX(-120px)}to{transform:translateX(1020px)}}
+</style></defs>
+<rect x="1" y="1" width="898" height="174" rx="18" fill="#1b1815" stroke="#302a25" stroke-width="1.5"/>
+<circle cx="30" cy="31" r="4" fill="#ff6b3d"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text class="t" x="44" y="36">Streaks</text>
+
+<g class="rise" style="animation-delay:.1s"><text x="150" y="98" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="46" fill="#ece0c8">0</text><text x="150" y="124" text-anchor="middle" class="k" fill-opacity=".85">Contributions this year</text><text x="150" y="144" text-anchor="middle" class="n">2025-11-09  to  2026-11-08</text></g>
+<rect x="300" y="60" width="1.5" height="92" fill="#302a25"/><rect x="598" y="60" width="1.5" height="92" fill="#302a25"/>
+<g class="rise" style="animation-delay:.25s"><circle cx="450" cy="96" r="46" fill="none" stroke="#ece0c8" stroke-opacity="0.1" stroke-width="6"/>
+<circle cx="450" cy="96" r="46" fill="none" stroke="#ff6b3d" stroke-width="6" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 450 96)"><animate attributeName="stroke-dashoffset" from="289.0" to="289.0" dur="1.6s" begin=".4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></circle>
+<text x="450" y="108" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="38" fill="#ece0c8">0</text><text x="450" y="162" text-anchor="middle" class="k" fill="#ff6b3d">Current streak</text></g>
+<g class="rise" style="animation-delay:.4s"><text x="750" y="98" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="46" fill="#ece0c8">0</text><text x="750" y="124" text-anchor="middle" class="k" fill-opacity=".85">Longest streak</text><text x="750" y="144" text-anchor="middle" class="n">days in a row</text></g>
+</svg>
