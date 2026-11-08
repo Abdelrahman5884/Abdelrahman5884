@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 84" width="900" height="84">
+<defs><style>
+.nn{font:900 58px 'Arial Black','Helvetica Neue',Arial,sans-serif;fill:none;stroke:#ff5a1f;stroke-width:1.6;opacity:0;animation:in .8s ease .1s forwards}
+.tt{font:900 30px 'Arial Black','Helvetica Neue',Arial,sans-serif;fill:#f3ead8;letter-spacing:4px;opacity:0;animation:in .9s ease .35s forwards}
+@keyframes in{from{opacity:0;transform:translateX(-22px)}to{opacity:1;transform:translateX(0)}}
+</style></defs>
+<text class="nn" x="0" y="58">03</text>
+<text class="tt" x="104" y="56">GITHUB ANALYTICS</text>
+<rect x="0" y="76" width="900" height="2" fill="#f3ead8" fill-opacity="0.18"/>
+<rect x="0" y="74" width="120" height="6" fill="#ff5a1f"><animate attributeName="x" values="0;780;0" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".6 0 .4 1;.6 0 .4 1"/></rect>
+</svg>

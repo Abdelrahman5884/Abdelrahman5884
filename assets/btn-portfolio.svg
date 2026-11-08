@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 68" width="300" height="68">
+<rect x="10" y="10" width="284" height="54" fill="#f3ead8"><animate attributeName="x" values="10;5;10" dur="2s" repeatCount="indefinite"/><animate attributeName="y" values="10;5;10" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="2" y="2" width="284" height="54" fill="#ff5a1f"/>
+<text x="136" y="36" text-anchor="middle" font-size="16" font-weight="900" letter-spacing="3" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" fill="#141210">VIEW PORTFOLIO</text>
+<path d="M0 0l8 8-8 8" fill="none" stroke="#141210" stroke-width="3"><animateTransform attributeName="transform" type="translate" values="262 24;268 24;262 24" dur="1.4s" repeatCount="indefinite"/></path>
+</svg>
