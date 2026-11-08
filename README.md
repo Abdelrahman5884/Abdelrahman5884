@@ -15,19 +15,15 @@
 <img src="./assets/sec-about.svg" width="100%" alt="About" />
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="760" alt="About me terminal" />
+  <img src="./assets/about.svg" width="100%" alt="Back-End Developer specialized in Laravel (PHP). I build robust RESTful APIs, design optimized MySQL databases, and focus on performance and scalability. Now exploring Redis, Docker and AWS." />
 </div>
-
-<br/>
-
-I'm a Back-End Developer specialized in Laravel (PHP). I build robust RESTful APIs, design optimized MySQL databases, and care about performance and scalability. I'm passionate about clean architecture, automation, and delivering real-world backend solutions. Right now I'm exploring Redis, AWS, and Docker.
 
 <br/>
 
 <img src="./assets/sec-stack.svg" width="100%" alt="Tech stack" />
 
 <div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Tech stack: PHP, Laravel, MySQL, Redis, Docker, AWS, Git, Linux" />
+  <img src="./assets/skills.svg" width="100%" alt="PHP, Laravel, MySQL, Redis, Docker, AWS, Git, Linux" />
 </div>
 
 <br/>
@@ -39,8 +35,14 @@ I'm a Back-End Developer specialized in Laravel (PHP). I build robust RESTful AP
   <img src="./assets/langs.svg" width="49%" alt="Top languages" />
   <br/><br/>
   <img src="./assets/streak.svg" width="100%" alt="Contribution streaks" />
-  <br/><br/>
-  <img src="./assets/heatmap.svg" width="100%" alt="Contribution map" />
+</div>
+
+<br/>
+
+<img src="./assets/sec-snake.svg" width="100%" alt="Contribution snake" />
+
+<div align="center">
+  <img src="./assets/snake.svg" width="100%" alt="Animated snake eating my contribution days" />
 </div>
 
 <br/>
